@@ -1,4 +1,4 @@
-#Titanic Survival Prediction
+# Titanic Survival Prediction
 
 the famous Titanic dataset, which contains information about passengers aboard the Titanic and whether they survived or not. 
 Preprocess the data, handle missing values, and convert categorical features into numerical ones. 
